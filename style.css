@@ -1,0 +1,16 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.bookmarklet{
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(150deg, rgb(21, 236, 39) , rgb(32, 172, 32));
+    font-weight: bold;
+    border: 2px solid rgb(74, 201, 85);
+    border-radius: 8px;
+    box-shadow: 1px 1px 5px 1px #000000;
+
+}
